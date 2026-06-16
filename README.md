@@ -18,10 +18,10 @@ Given a set of labs (each with a capacity and available software) and a set of m
 
 | File | Description |
 |------|-------------|
-| `Lab_Space_Optimizer.ipynb` | Main notebook containing all three phases of the project |
-| `Phase_1_Report.pdf` | Report covering problem modelling, data structures, and feasibility checking |
-| `Phase_2_Report.pdf` | Report covering greedy algorithm design and comparison |
-| `Phase_3_Report.pdf` | Report covering hill-climbing and swap search optimisation |
+| `Lab Space Optimizer.ipynb` | Main notebook containing all three phases of the project |
+| `Phase 1 Report.pdf` | Report covering problem modelling, data structures, and feasibility checking |
+| `Phase 2 Report.pdf` | Report covering greedy algorithm design and comparison |
+| `Phase 3 Report.pdf` | Report covering hill-climbing and swap search optimisation |
 
 ---
 
