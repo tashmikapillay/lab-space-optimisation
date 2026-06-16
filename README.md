@@ -1,6 +1,6 @@
 # 🔬 Lab Space Optimizer
 
-A group project that tackles the combinatorial problem of assigning university modules to computer labs efficiently. The solution evolves across three phases — from feasibility checking and greedy scheduling, to local search optimisation — minimising unused seats while respecting capacity and software constraints.
+A group project that tackles the combinatorial problem of assigning university modules to computer labs efficiently. The solution evolves across three phases, from feasibility checking and greedy scheduling, to local search optimisation: minimising unused seats while respecting capacity and software constraints.
 
 ---
 
@@ -18,7 +18,7 @@ Given a set of labs (each with a capacity and available software) and a set of m
 
 | File | Description |
 |------|-------------|
-| `Lab Space Optimizer.ipynb` | Main notebook containing all three phases of the project |
+| `Lab_Space_Optimizer.ipynb` | Main notebook containing all three phases of the project |
 | `Phase 1 Report.pdf` | Report covering problem modelling, data structures, and feasibility checking |
 | `Phase 2 Report.pdf` | Report covering greedy algorithm design and comparison |
 | `Phase 3 Report.pdf` | Report covering hill-climbing and swap search optimisation |
